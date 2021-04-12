@@ -1,0 +1,2 @@
+[11-Sep-2019 07:48:57 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_MockObject_Invocation_Static' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Invocation/Object.php on line 16
+[11-Sep-2019 07:48:59 UTC] PHP Fatal error:  Interface 'PHPUnit_Framework_MockObject_Invocation' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Invocation/Static.php on line 18

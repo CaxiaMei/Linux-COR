@@ -1,0 +1,1 @@
+[11-Sep-2019 07:31:48 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_Exception' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/src/Framework/Error.php on line 14

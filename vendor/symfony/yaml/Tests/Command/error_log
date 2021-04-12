@@ -1,0 +1,1 @@
+[11-Sep-2019 07:34:28 UTC] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home3/servic64/public_html/clean/vendor/symfony/yaml/Tests/Command/LintCommandTest.php on line 25

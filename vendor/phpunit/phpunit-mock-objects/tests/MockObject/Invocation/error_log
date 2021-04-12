@@ -1,0 +1,2 @@
+[11-Sep-2019 07:37:25 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/ObjectTest.php on line 2
+[11-Sep-2019 07:37:25 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/StaticTest.php on line 2

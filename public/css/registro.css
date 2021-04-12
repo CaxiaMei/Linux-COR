@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.modal{
+	z-index: 100000;    
+}
+/*INICIO DISEÑO SOCIO*/
+.socio-fondo{
+	width: 100%;
+	height: 100%;
+	position: relative;
+	background-image: url("https://content.serviciocrown.com/public/pc/sillon-login.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.quitar-margen{
+	margin: 0px;
+	padding: 0px;
+}
+.formulario-login{
+	background-color: rgba(52, 181, 177, .7);
+	color: white;
+	padding: 77px 40px;
+	height: auto;
+	overflow: hidden;
+	border-bottom: 5px solid transparent;
+	transition: 0.7s ease-out;
+}
+.formulario-login input:focus{
+	box-shadow: none;
+	border-left: 5px solid #0D798B;
+}
+.centrar-login{
+	text-align: center;
+}
+.centrar-login p{
+	font-size: 20px;
+}
+.btn-login{
+	width: 100%;
+	height: auto;
+	color: #34b5b1;
+	background-color: white;
+	padding: 5px 0px;
+	font-size: 20px;
+	border-radius: 8px;
+	border: none;
+	border-bottom: 5px solid transparent;
+	transition: 0.7s ease-out;
+}
+.btn-login:hover{
+	border-bottom: 5px solid #0D798B;
+}
+.registrate{
+	font-size: 18px;
+	padding: 5px 25px;
+	border-radius: 2px;
+}
+.registrate a{
+	background-color: transparent;
+	transition: 0.7s ease-in;
+}
+.registrate a:hover{
+	color: #F3F3F3;
+}
+/*RECUPERAR CONTRASENA */
+.recuperar{
+width: 45%;   
+max-width: 590px;    
+height: auto;
+margin: 2% auto;
+padding: 30px 40px;
+background-color: white;    
+}
+/*RECUPERAR CONTRASENA*/
+
+/*REGISTRARSE FORMULARIO*/
+.btn-formulario{
+	border: none;
+	border-radius: 3px;
+
+}
+
+.btn-form{
+	background-color: #34b5b1;
+	color: white;
+}
+
+.btn-form:hover{
+	background-color: rgb(76,204,198);
+	color: white;
+}
+
+/*
+.form{
+	width: 100%;
+	height: 50px;
+	max-width: 400px;
+	position: relative;
+	overflow: hidden;
+	background-color: violet;
+}
+.form input{
+	border: none;
+	width: 100%;
+	height: 100%;
+	background: green;
+	color: white;
+	padding-top: 20px;
+	border: none;
+	outline: 0px;
+}
+
+.form .lbl-nombre{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+	color: black;
+	border-bottom: 1px solid pink;
+}
+
+.form .lbl-nombre:after{
+	content: '';
+	position: absolute;
+	left: 0;
+	bottom: -1px;
+	widows: 100%;
+	height: 100%;
+	border-bottom: 3px solid green;
+	transform: translateX(-100%);
+	transition: all 0.3s ease;
+}
+
+.text-nomb{
+	position: absolute;
+	bottom: 5px;
+	left: 0;
+	transition: all 0.3s ease;
+	color: red;
+}
+
+.form input:focus + .lbl-nombre .text-nomb, 
+.form input:valid + .lbl-nombre .text-nomb{
+	transform: translateY(-150%);
+	font-size: 14px;
+	color: orangered;
+}
+
+.form input:focus + .lbl-nombre:after, 
+.form input:valid + .lbl-nombre:after{
+	transform: translateX(0%);
+}
+
+Decoración para los inputs que vi en internet pero no funviono*/

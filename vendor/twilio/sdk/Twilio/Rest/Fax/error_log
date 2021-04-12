@@ -1,0 +1,1 @@
+[11-Sep-2019 07:41:55 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Fax/V1.php on line 21

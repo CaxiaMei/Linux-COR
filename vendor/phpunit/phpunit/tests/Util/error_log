@@ -1,0 +1,7 @@
+[11-Sep-2019 07:33:02 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/tests/Util/ConfigurationTest.php on line 11
+[11-Sep-2019 07:33:02 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/tests/Util/GetoptTest.php on line 11
+[11-Sep-2019 07:33:02 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/tests/Util/GlobalStateTest.php on line 11
+[11-Sep-2019 07:33:02 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/tests/Util/PHPTest.php on line 18
+[11-Sep-2019 07:33:02 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/tests/Util/RegexTest.php on line 11
+[11-Sep-2019 07:33:04 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/tests/_files/CoverageNamespacedFunctionTest.php on line 2
+[11-Sep-2019 07:33:04 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/tests/Util/XMLTest.php on line 11

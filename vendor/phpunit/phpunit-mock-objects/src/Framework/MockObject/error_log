@@ -1,0 +1,4 @@
+[11-Sep-2019 07:37:11 UTC] PHP Fatal error:  Interface 'PHPUnit_Framework_MockObject_Stub_MatcherCollection' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/InvocationMocker.php on line 20
+[11-Sep-2019 07:37:13 UTC] PHP Fatal error:  Interface 'PHPUnit_Framework_MockObject_Verifiable' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Invokable.php on line 19
+[11-Sep-2019 07:37:14 UTC] PHP Fatal error:  Interface 'PHPUnit_Framework_MockObject_Matcher_Invocation' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Matcher.php on line 22
+[11-Sep-2019 07:37:17 UTC] PHP Fatal error:  Interface 'PHPUnit_Framework_SelfDescribing' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit-mock-objects/src/Framework/MockObject/Stub.php on line 19

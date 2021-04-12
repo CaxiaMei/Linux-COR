@@ -1,0 +1,1 @@
+[11-Sep-2019 07:22:48 UTC] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home3/servic64/public_html/clean/vendor/symfony/yaml/Command/LintCommand.php on line 32

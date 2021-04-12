@@ -1,0 +1,1 @@
+[11-Sep-2019 07:35:33 UTC] PHP Fatal error:  Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home3/servic64/public_html/clean/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 20

@@ -1,0 +1,4 @@
+[11-Sep-2019 07:38:39 UTC] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 16
+[11-Sep-2019 07:38:39 UTC] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 14
+[11-Sep-2019 07:38:39 UTC] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 15
+[11-Sep-2019 07:38:41 UTC] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 17

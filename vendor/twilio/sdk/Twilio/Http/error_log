@@ -1,0 +1,2 @@
+[11-Sep-2019 07:34:51 UTC] PHP Fatal error:  Interface 'Twilio\Http\Client' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Http/CurlClient.php on line 9
+[11-Sep-2019 07:34:51 UTC] PHP Fatal error:  Interface 'Twilio\Http\Client' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Http/GuzzleClient.php on line 12

@@ -1,0 +1,12 @@
+[11-Sep-2019 07:15:54 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/ArrayComparator.php on line 16
+[11-Sep-2019 07:15:54 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/DOMNodeComparator.php on line 19
+[11-Sep-2019 07:15:56 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/DateTimeComparator.php on line 16
+[11-Sep-2019 07:15:58 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\NumericComparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/DoubleComparator.php on line 16
+[11-Sep-2019 07:16:00 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/ExceptionComparator.php on line 16
+[11-Sep-2019 07:16:00 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ScalarComparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/NumericComparator.php on line 16
+[11-Sep-2019 07:16:00 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/MockObjectComparator.php on line 16
+[11-Sep-2019 07:16:01 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ArrayComparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/ObjectComparator.php on line 16
+[11-Sep-2019 07:16:01 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/ResourceComparator.php on line 16
+[11-Sep-2019 07:16:01 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/ScalarComparator.php on line 16
+[11-Sep-2019 07:16:01 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/SplObjectStorageComparator.php on line 16
+[11-Sep-2019 07:16:02 UTC] PHP Fatal error:  Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/servic64/public_html/clean/vendor/sebastian/comparator/src/TypeComparator.php on line 16

@@ -1,0 +1,4 @@
+[11-Sep-2019 07:36:33 UTC] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home3/servic64/public_html/clean/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php on line 24
+[11-Sep-2019 07:36:34 UTC] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home3/servic64/public_html/clean/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php on line 23
+[11-Sep-2019 07:36:34 UTC] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home3/servic64/public_html/clean/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php on line 25
+[11-Sep-2019 07:36:34 UTC] PHP Fatal error:  Interface 'Prophecy\Promise\PromiseInterface' not found in /home3/servic64/public_html/clean/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php on line 22

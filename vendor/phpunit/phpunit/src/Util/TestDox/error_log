@@ -1,0 +1,1 @@
+[11-Sep-2019 07:38:46 UTC] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home3/servic64/public_html/clean/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter.php on line 14

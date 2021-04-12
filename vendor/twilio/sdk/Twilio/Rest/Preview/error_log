@@ -1,0 +1,9 @@
+[11-Sep-2019 07:42:27 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/AccSecurity.php on line 21
+[11-Sep-2019 07:42:27 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/BulkExports.php on line 24
+[11-Sep-2019 07:42:29 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/DeployedDevices.php on line 21
+[11-Sep-2019 07:42:30 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/HostedNumbers.php on line 24
+[11-Sep-2019 07:42:30 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/Marketplace.php on line 24
+[11-Sep-2019 07:42:31 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/Sync.php on line 21
+[11-Sep-2019 07:42:31 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/TrustedComms.php on line 26
+[11-Sep-2019 07:42:33 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/Wireless.php on line 27
+[11-Sep-2019 07:42:33 UTC] PHP Fatal error:  Class 'Twilio\Version' not found in /home3/servic64/public_html/clean/vendor/twilio/sdk/Twilio/Rest/Preview/Understand.php on line 21
